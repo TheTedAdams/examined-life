@@ -1,2 +1,2 @@
 # examined-life
-The life worth living.
+Because, you know... the life worth living.
