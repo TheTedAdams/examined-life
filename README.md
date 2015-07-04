@@ -12,3 +12,9 @@ have Python 2.7 and pip installed.
 . venv/bin/activate
 ```
 switches your current terminal session to the virtual environment.
+
+## Running the Development Backend
+```bash
+./services/run.py
+```
+Starts up the development backend for local use at http://127.0.0.1:5000
